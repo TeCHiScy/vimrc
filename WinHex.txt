@@ -1,0 +1,2 @@
+:%!xxd   	ÇÐ»» Hex Display
+:%!xxd -r 	ÇÐ»» Text Display
